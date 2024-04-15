@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Balasubramanian S - Backend Engineer
+Stack: asp.net core, asp.net api, C#, SQL , Azure
